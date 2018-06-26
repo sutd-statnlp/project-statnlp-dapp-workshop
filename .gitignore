@@ -17,3 +17,4 @@ yarn-error.log*
 v1
 static404
 _site
+build/
